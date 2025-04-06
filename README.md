@@ -15,7 +15,7 @@ Project structure will be like below , you can implement in your own way also
 
 ## 1. Clone the Repository
 
-  git clone https://github.com/your-username/your-repo-name.git](https://github.com/ragnarranjan/Automation_job_python.git
+  git clone https://github.com/ragnarranjan/Automation_job_python.git
   cd your-repo-name
 
 
